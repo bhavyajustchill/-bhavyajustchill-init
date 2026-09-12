@@ -7,5 +7,5 @@ Interactive project initializer for BhavyaJustChill starter repositories.
 Run:
 
 ```bash
-npx @bhavyajustchill/init
+npx @bhavyajustchill/init@latest
 ```
