@@ -8,5 +8,3 @@ export async function showBanner() {
     console.log(chalk.cyan(banner));
     console.log();
 }
-
-showBanner();
